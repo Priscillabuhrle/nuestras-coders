@@ -1,0 +1,57 @@
+/* Inserta tu código aqui */
+h4{
+	margin-left: 300px;
+	margin-top: 80px;
+}
+.linea{
+	width: 80px;
+	height: 3px;
+	background-color: black;
+	margin-left: 300px;
+}
+.contenedor{
+	position: relative;
+	margin: auto;
+	width: 700px;
+}
+
+.box{
+	position: relative;
+	width: 211px;
+	height: 211px;
+	float: left;
+	border: 2px solid gray;
+	margin-top: 30px;
+}
+.uno{
+	background-image: url("../img/profile-1.png");
+	margin-right: 15px;
+}
+.dos{
+	background-image: url("../img/profile-2.png");
+	margin-right: 15px;
+}
+.tres{
+	background-image: url("../img/profile-3.png");
+}
+.cuatro{
+	background-image: url("../img/profile-4.png");
+	margin-right: 15px;
+	margin-top: 15px;
+}
+.cinco{
+	background-image: url("../img/profile-5.png");
+	margin-right: 15px;
+	margin-top: 15px;
+}
+.seis{
+	background-image: url("../img/profile-6.png");
+	margin-top: 15px;
+}
+p{
+	color: #FFFFFF;
+	font-size: 15px;
+	position: absolute;
+	margin-top: 190px;
+	margin-left: 85px;
+}
